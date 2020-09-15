@@ -1,0 +1,10 @@
+array1=[12,35,42,22,1,6,54]
+array2=['hello','world']
+array1.index(35)
+print(arr1)
+array1.sort()
+print(array1)
+array1.extend(array2)
+print(array1)
+array1.reverse()
+print(array1)
